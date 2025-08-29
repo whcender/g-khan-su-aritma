@@ -160,7 +160,7 @@ const App: React.FC = () => {
               </div>
               <div className="lg:w-1/2 rounded-xl overflow-hidden shadow-lg border border-gray-800">
                 <img
-                  src="https://placehold.co/800x500/1e293b/d1d5db?text=Gokhan+Su+Aritma"
+                  src="t2.jpg"
                   alt="[Gökhan Su Arıtma firması hakkında genel bir fotoğraf]"
                   className="w-full h-auto object-cover"
                 />
