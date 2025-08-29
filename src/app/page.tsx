@@ -216,7 +216,7 @@ const App: React.FC = () => {
               </div>
               <div className="rounded-xl overflow-hidden shadow-lg transform hover:scale-105 transition-transform duration-300">
                 <img
-                  src="filtre.png"
+                  src="t4.jpg"
                   alt="[Bir su arıtma cihazının filtre değişimini gösteren yakın çekim]"
                   className="w-full h-auto object-cover"
                 />
