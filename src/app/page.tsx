@@ -158,11 +158,11 @@ const App: React.FC = () => {
                   Bursanın tüm bölgelerine hızlı ve güvenilir hizmetlerimizle, su arıtma cihazı kurulumundan periyodik bakıma kadar her aşamada yanınızdayız. Sağlığınız bizim için önemli, en iyi hizmeti sunmak için buradayız.
                 </p>
               </div>
-              <div className="lg:w-1/2 rounded-xl overflow-hidden shadow-lg border border-gray-800">
+              <div className="lg:w-1/3 lg:h-1/4 rounded-xl overflow-hidden shadow-lg border border-gray-800">
                 <img
                   src="t2.jpg"
                   alt="[Gökhan Su Arıtma firması hakkında genel bir fotoğraf]"
-                  className="w-full h-auto object-cover"
+                  className="w-full h-auto object-contain"
                 />
               </div>
             </div>
