@@ -332,6 +332,7 @@ const App: React.FC = () => {
       <footer className="py-8 bg-gray-950 text-center text-gray-400 border-t border-gray-800">
         <div className="container mx-auto px-4">
           <p>© 2024 Gökhan Su Arıtma. Tüm Hakları Saklıdır.</p>
+          <p>Sitede bulunan kullanıcı verileri 3. şahıslarla paylaşılmaz.</p>
           <p className="mt-2 text-sm">Bursa'da su arıtma cihazı kurulumu, bakımı ve filtre değişimi hizmetleri.</p>
         </div>
       </footer>
